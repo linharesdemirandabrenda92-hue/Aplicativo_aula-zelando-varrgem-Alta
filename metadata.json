@@ -1,0 +1,6 @@
+{
+  "name": "Zelando a minha cidade",
+  "description": "Aplicativo de serviços municipais, solicitações urbanas, notícias, vagas de emprego, eventos, ouvidoria e avaliação de serviços da cidade.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
